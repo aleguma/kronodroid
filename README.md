@@ -2,4 +2,4 @@
 
 KronoDroid dataset repository. 
 
-Emulator data set is ready.
+Emulator data set is ready to download in zip format. 
