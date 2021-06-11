@@ -1,2 +1,3 @@
-# kronodroid
-KronoDroid Dataset 
+# Kronodroid Dataset 
+
+KronoDroid dataset repository. 
