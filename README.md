@@ -1,8 +1,9 @@
 # Kronodroid Dataset 
 
-KronoDroid dataset repository. 
+KronoDroid dataset - Android Malware Dataset. 
 
 Emulator data set is ready to download in CSV format (zip files). 
+  - asdasd
 
 Real Device data set is ready to download in CSV format (zip files).
 
