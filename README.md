@@ -1,6 +1,5 @@
-# Kronodroid Dataset 
-
-KronoDroid dataset - Android Malware Dataset. 
+# Kronodroid
+Android Malware Dataset. 
 
 Features:
 
