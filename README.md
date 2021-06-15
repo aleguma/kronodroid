@@ -5,10 +5,10 @@ KronoDroid dataset - Android Malware Dataset.
 Features:
 
 - Labeled (i.e., benign/malware samples)
-- Dynamic features (i.e., system calls)
-- Static features (i.e., permissions)
-- Timestamps per app (4 possibilities)
-- Ranging from 2008-2020.
+- 289 dynamic features (i.e., system calls)
+- 200 static features (i.e., permissions, intent filters, metadata)
+- 4 distinct timestamps per data sample
+- Covering all Android history - 2008-2020.
 
 
 Emulator data set is ready to download in CSV format (zip files). 
