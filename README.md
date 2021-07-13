@@ -21,7 +21,7 @@ Real Device data set is ready to download in CSV format (zip files under real de
 
 Log files and raw data to be uploaded soon. 
 
-## IMPORTANT INFORMATION
+## Important Information
 
 The data set is released publicly and with no restrictions. However, when using the dataset please cite the KronoDroid paper:
 https://www.sciencedirect.com/science/article/pii/S0167404821002236 
@@ -29,7 +29,7 @@ https://www.sciencedirect.com/science/article/pii/S0167404821002236
 Please note that the publication work is not finished yet. The final citation will be posted soon (expected 22th of July).
 
 
-More information and detailed explanation to be posted soon.
+More information and detailed explanation about the dataset and additional scripts to be posted soon.
 
 Contact: alejandro.guerra@taltech.ee
 
