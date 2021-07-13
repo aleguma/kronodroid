@@ -23,7 +23,7 @@ Log files and raw data to be uploaded soon.
 
 ## IMPORTANT INFORMATION
 
-When using the data set, please cite the KronoDroid paper:
+The data set is released publicly and with no restrictions. However, when using the dataset please cite the KronoDroid paper:
 https://www.sciencedirect.com/science/article/pii/S0167404821002236 
 
 Please note that the publication work is not finished yet. The final citation will be posted soon (expected 22th of July).
