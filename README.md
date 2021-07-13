@@ -21,6 +21,10 @@ Real Device data set is ready to download in CSV format (zip files under real de
 
 Log files and raw data to be uploaded soon. 
 
+IMPORTANT INFORMATION
+When using the data set, please cite:
+
+
 More information and detailed explanation to be posted soon.
 
 Contact: alejandro.guerra@taltech.ee
