@@ -25,7 +25,8 @@ Log files and raw data to be uploaded soon.
 
 When using the data set, please cite the KronoDroid paper:
 https://www.sciencedirect.com/science/article/pii/S0167404821002236 
-The final citation will be posted soon, after the publication work is concluded. 
+
+Please note that the publication work is still on going. The final citation will be posted soon (expected 22th of July).
 
 
 More information and detailed explanation to be posted soon.
