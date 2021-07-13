@@ -29,7 +29,7 @@ https://www.sciencedirect.com/science/article/pii/S0167404821002236
 Please note that the publication work is not finished yet. The final citation will be posted soon (expected 22th of July).
 
 
-More information and detailed explanation about the dataset and additional scripts will be posted soon.
+More information and detailed explanation about the dataset and the additional scripts will be posted soon.
 
 Contact: alejandro.guerra@taltech.ee
 
