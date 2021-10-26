@@ -37,7 +37,7 @@ issn = {0167-4048}, <br/>
 doi = {https://doi.org/10.1016/j.cose.2021.102399}, <br/>
 url = {https://www.sciencedirect.com/science/article/pii/S0167404821002236}, <br/>
 author = {Alejandro Guerra-Manzanares and Hayretdin Bahsi and Sven Nõmm} <br/>
-}<
+}
 
 More information and detailed explanation about the dataset and the additional scripts will be posted soon.
 
