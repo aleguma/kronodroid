@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-message: "KronoDroid data set repository"
+message: "Please cite the original paper/source: "
 authors:
 - family-names: "Guerra-Manzanares"
   given-names: "Alejandro"
   orcid: "https://orcid.org/0000-0002-3655-5804"
-title: "KronoDroid: "
+title: "KronoDroid data set repository"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2021-10-26
