@@ -20,7 +20,7 @@ Real Device data set is ready to download in CSV format (zip files under real de
 
 Log files and raw data to be uploaded soon. The APK files are not available due to restrictions from the original sources. However, the hash list of all data set samples can be provided and the files can be requested from the original sources.
 
-If you have any issues or requests that I can be of any help, just email alejandro.guerra@taltech.ee 
+If you have any issues or requests that I can be of any help with, please email alejandro.guerra@taltech.ee 
 
 ## Important Information
 
