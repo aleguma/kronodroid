@@ -27,7 +27,7 @@ https://www.sciencedirect.com/science/article/pii/S0167404821002236
 
 LaTeX citation to the data set paper:
 
->@article{GUERRAMANZANARES2021102399, <br/>
+>@article{Kronodroid_Guerra, <br/>
 title = {KronoDroid: Time-based Hybrid-featured Dataset for Effective Android Malware Detection and Characterization}, <br/>
 journal = {Computers & Security}, <br/>
 volume = {110}, <br/>
@@ -36,8 +36,7 @@ year = {2021}, <br/>
 issn = {0167-4048}, <br/>
 doi = {https://doi.org/10.1016/j.cose.2021.102399}, <br/>
 url = {https://www.sciencedirect.com/science/article/pii/S0167404821002236}, <br/>
-author = {Alejandro Guerra-Manzanares and Hayretdin Bahsi and Sven Nõmm} <br/>
-}
+author = {Alejandro Guerra-Manzanares and Hayretdin Bahsi and Sven Nõmm}} <br/>
 
 More information and detailed explanation about the dataset and the additional scripts will be posted soon.
 
