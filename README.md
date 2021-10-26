@@ -25,9 +25,9 @@ Log files and raw data to be uploaded soon. The APK files are not available due 
 The data set is released publicly and with no other restriction than when using the dataset please cite the KronoDroid paper:
 https://www.sciencedirect.com/science/article/pii/S0167404821002236
 
-LaTeX citation:
+LaTeX citation to the data set paper:
 
-@article{GUERRAMANZANARES2021102399,
+>@article{GUERRAMANZANARES2021102399,
 title = {KronoDroid: Time-based Hybrid-featured Dataset for Effective Android Malware Detection and Characterization},
 journal = {Computers & Security},
 volume = {110},
@@ -37,7 +37,7 @@ issn = {0167-4048},
 doi = {https://doi.org/10.1016/j.cose.2021.102399},
 url = {https://www.sciencedirect.com/science/article/pii/S0167404821002236},
 author = {Alejandro Guerra-Manzanares and Hayretdin Bahsi and Sven Nõmm}
-}
+}>
 
 More information and detailed explanation about the dataset and the additional scripts will be posted soon.
 
