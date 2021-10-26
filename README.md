@@ -18,16 +18,26 @@ Real Device data set is ready to download in CSV format (zip files under real de
   - 41,382 malware samples (240 malware families)
   - 36,755 benign apps.
 
-
-Log files and raw data to be uploaded soon. 
+Log files and raw data to be uploaded soon. The APK files are not available due to restrictions from the original sources. However, the hash list of all data set samples can be provided and the files can be requested from the original sources.
 
 ## Important Information
 
-The data set is released publicly and with no restrictions. However, when using the dataset please cite the KronoDroid paper:
-https://www.sciencedirect.com/science/article/pii/S0167404821002236 
+The data set is released publicly and with no other restriction than when using the dataset please cite the KronoDroid paper:
+https://www.sciencedirect.com/science/article/pii/S0167404821002236
 
-Please note that the publication work is not finished yet. The final citation will be posted soon (expected 22th of July).
+LaTeX citation:
 
+@article{GUERRAMANZANARES2021102399,
+title = {KronoDroid: Time-based Hybrid-featured Dataset for Effective Android Malware Detection and Characterization},
+journal = {Computers & Security},
+volume = {110},
+pages = {102399},
+year = {2021},
+issn = {0167-4048},
+doi = {https://doi.org/10.1016/j.cose.2021.102399},
+url = {https://www.sciencedirect.com/science/article/pii/S0167404821002236},
+author = {Alejandro Guerra-Manzanares and Hayretdin Bahsi and Sven Nõmm}
+}
 
 More information and detailed explanation about the dataset and the additional scripts will be posted soon.
 
