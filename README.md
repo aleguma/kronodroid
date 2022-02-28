@@ -20,7 +20,7 @@ Real Device data set is ready to download in CSV format (zip files under real de
 
 Log files and raw data to be uploaded soon. 
 
-The APK files cannot be shared due to restrictions from the original sources. However, the list hashes of all the data set samples can be extracted from each specific data set (i.e., "sha256" column), and the files can be gathered from the original sources.
+The APK files cannot be shared due to restrictions from the original sources. However, the list hashes of all the data set samples can be extracted from each specific data set (i.e., "sha256" column in each CSV file). Then, the selected files can be gathered using the hash values from the original sources.
 
 If you have any issues or requests that I can be of any help with, please email alejandro.guerra@taltech.ee 
 
