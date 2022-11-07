@@ -1,5 +1,6 @@
-# Kronodroid Dataset
-Android Malware Dataset. 
+# About the Kronodroid Dataset
+
+Android malware dataset designed to study and explore concept drift and cross-device detection issues. Created and maintained by Dr. Alejandro Guerra Manzanares during his Ph.D. studies. 
 
 Features:
 
