@@ -46,4 +46,6 @@ More information and detailed explanation about the dataset and the additional s
 
 Contact: alejandro.guerra@taltech.ee
 
+## Updates
 
+I am working on improving the data set, adding more recent files, more data and API calls information. If you are interested, contact me.
