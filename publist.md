@@ -1,6 +1,6 @@
-## List of Publications using the KronoDroid dataset
+# List of Publications using the KronoDroid dataset
 
-# 2022
+## 2022
 
 Guerra-Manzanares, Alejandro, and Hayretdin Bahsi. "On the relativity of time: Implications and challenges of data drift on long-term effective android malware detection." Computers & Security 122 (2022): 102835. https://doi.org/10.1016/j.cose.2022.102835
 
