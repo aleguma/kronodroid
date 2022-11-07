@@ -49,7 +49,7 @@ Contact: alejandro.guerra@taltech.ee
 
 # Have you used the data set in your work?
 
-If you have used KronoDroid in your work, send us the reference and we will include it in our < a href="https://github.com/aleguma/kronodroid/blob/b84216a4f3b68487ed8c11acb029024dda6164ad/publist.md"> list</a>: 
+If you have used KronoDroid in your work, send us the reference and we will include it in our [list]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://github.com/aleguma/kronodroid/blob/b84216a4f3b68487ed8c11acb029024dda6164ad/publist.md)).
 
 ## Updates
 
