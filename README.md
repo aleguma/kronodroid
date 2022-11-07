@@ -47,6 +47,10 @@ More information and detailed explanation about the dataset and the additional s
 
 Contact: alejandro.guerra@taltech.ee
 
+# Have you used the data set in your work?
+
+If you have used KronoDroid in your work, send us the reference and we will include it in our < a href="https://github.com/aleguma/kronodroid/blob/b84216a4f3b68487ed8c11acb029024dda6164ad/publist.md"> list</a>: 
+
 ## Updates
 
 I am working on improving the data set, adding more recent files, more data and API calls information. If you are interested, contact me.
