@@ -19,11 +19,11 @@ Real Device data set is ready to download in CSV format (zip files under real de
   - 41,382 malware samples (240 malware families)
   - 36,755 benign apps.
 
-Log files and raw data to be uploaded soon. 
+Log files and raw data to be uploaded soon. For now just under request to: alejandro.guerra@taltech.ee  
 
-The APK files cannot be shared due to restrictions from the original sources. However, the list hashes of all the data set samples can be extracted from each specific data set (i.e., "sha256" column in each CSV file). Then, the selected files can be gathered using the hash values from the original sources.
+Some of the APK files cannot be shared due to restrictions from the original sources. However, the list hashes of all the data set samples can be extracted from each specific data set (i.e., "sha256" column in each CSV file). 
 
-If you have any issues or requests that I can be of any help with, please email alejandro.guerra@taltech.ee 
+If you have any issues or requests that I can be of any help with, email me.
 
 ## Important Information
 
