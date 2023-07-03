@@ -53,7 +53,7 @@ If you have used KronoDroid in your work, send us the reference and we will incl
 
 ## Updates to the data set
 
-I am working on improving the data set, adding more recent files, more data and API calls information. If you are interested, contact me at alejandro.guerra@nyu.edu
+I am working on improving the data set, adding more recent files, more data and API calls information. If you are interested, contact me!
 
 I can share original log files of the system calls and other extracted information with the APK. I can also share part of the APK files if you need them. 
 
