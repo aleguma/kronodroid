@@ -19,17 +19,18 @@ Real Device data set is ready to download in CSV format (zip files under real de
   - 41,382 malware samples (240 malware families)
   - 36,755 benign apps.
 
-## Th raw data set is available under request (log files, extracted metadata and APKs)
+## Th raw data set is available (log files, extracted metadata and APKs)
 
-Log files and raw data are available, not via direct download yet. For now I will share them with you if you request it: alejandro.guerra@nyu.edu
+Log files and raw data are available from my personal website: https://alegm.com. 
+However, given the sensitive nature of the data (malware) the access is controlled and only granted to researchers and for research purposes. If you want access, please email me at alejandro.guerra@nyu.edu or mail@alegm.com to provide you personalized credentials for accessing the data files. 
 
-Some of the APK files cannot be shared due to restrictions from the original sources. However, the list hashes of all the data set samples can be extracted from each specific data set (i.e., "sha256" column in each CSV file). 
+Please remember to cite the original dataset paper when using any data related to KronoDroid (see below). Thank you so much!
 
 If you have any issues or requests that I can be of any help with, email me.
 
 ## Important Information
 
-The data set is released publicly and with no other restriction than when using the dataset please cite the KronoDroid paper:
+The data set is released publicly for research purpose and with no other restriction than when using the dataset please cite the KronoDroid paper:
 https://www.sciencedirect.com/science/article/pii/S0167404821002236
 
 LaTeX citation to the data set paper:
@@ -45,11 +46,7 @@ doi = {https://doi.org/10.1016/j.cose.2021.102399}, <br/>
 url = {https://www.sciencedirect.com/science/article/pii/S0167404821002236}, <br/>
 author = {Alejandro Guerra-Manzanares and Hayretdin Bahsi and Sven Nõmm}} <br/>
 
-More information and detailed explanation about the dataset and the additional scripts will be posted soon.
-
-## Have you used the data set in your work?
-
-If you have used KronoDroid in your work, send us the reference and we will include it in the [PUBLICATIONS LIST](https://github.com/aleguma/kronodroid/blob/b84216a4f3b68487ed8c11acb029024dda6164ad/publist.md).
+Note: I encourage to check the related papers I published using the dataset, they might be relevant for your work! Citation would also be greatly appreciated!
 
 ## Updates to the data set
 
