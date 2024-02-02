@@ -19,14 +19,14 @@ Real Device data set is ready to download in CSV format (zip files under real de
   - 41,382 malware samples (240 malware families)
   - 36,755 benign apps.
 
-## Th raw data set is available (log files, extracted metadata and APKs)
+## The raw data set is available (log files, extracted metadata and APKs)
 
 Log files and raw data are available from my personal website: https://alegm.com. 
-However, given the sensitive nature of the data (malware) the access is controlled and only granted to researchers and for research purposes. If you want access, please email me at alejandro.guerra@nyu.edu or mail@alegm.com to provide you personalized credentials for accessing the data files. 
+However, given the sensitive nature of the data (malware) the access is controlled and only granted to researchers and for research purposes. If you want access, please email me at alejandro.guerra@nyu.edu or mail@alegm.com to receive personalized credentials for accessing the whole data set files. 
 
-Please remember to cite the original dataset paper when using any data related to KronoDroid (see below). Thank you so much!
+Please remember to cite the original dataset paper when using any data related to KronoDroid (see citation below). Thank you so much!
 
-If you have any issues or requests that I can be of any help with, email me.
+If you have any issues or requests that I can be of any help with, do not hesitate to email me.
 
 ## Important Information
 
@@ -54,4 +54,4 @@ I am working on improving the data set, adding more recent files, more data and 
 
 I can share original log files of the system calls and other extracted information with the APK. I can also share part of the APK files if you need them. 
 
-Do not hesitate to contact me if you need raw files of the dataset (large size): alejandro.guerra@nyu.edu
+Do not hesitate to contact me if you want access to the raw files of the dataset (large size): alejandro.guerra@nyu.edu or mail@alegm.com
