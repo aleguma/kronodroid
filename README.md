@@ -54,4 +54,6 @@ I am working on improving the data set, adding more recent files, more data and 
 
 I can share original log files of the system calls and other extracted information with the APK. I can also share part of the APK files if you need them. 
 
-Do not hesitate to contact me if you want access to the raw files of the dataset (large size): alejandro.guerra@nyu.edu or mail@alegm.com
+Do not hesitate to contact me if you want access to the raw files of the dataset (large size): alejandro.guerra@nottingham.edu.cn.
+
+I am open for collaborations. Feel free to email me!
