@@ -13,7 +13,7 @@ Features:
 
 Emulator data set is ready to download in CSV format (zip files under emulator folder). 
   - 28,745 malicious samples (209 malware families).
-  - 35,256 benign samples.
+  - 35,246 benign samples.
 
 Real Device data set is ready to download in CSV format (zip files under real device folder).  
   - 41,382 malware samples (240 malware families)
